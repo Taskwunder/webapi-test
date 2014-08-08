@@ -10,3 +10,15 @@ C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\Test\bin\Deb
 C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
 C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\Test\obj\Debug\Test.exe
 C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\Test\obj\Debug\Test.pdb
+C:\github\webapi-test\Test\bin\Debug\Test.exe.config
+C:\github\webapi-test\Test\obj\Debug\Test.exe
+C:\github\webapi-test\Test\obj\Debug\Test.pdb
+C:\github\webapi-test\Test\bin\Debug\Test.exe
+C:\github\webapi-test\Test\bin\Debug\Test.pdb
+C:\github\webapi-test\Test\bin\Debug\DbClasses.dll
+C:\github\webapi-test\Test\bin\Debug\EntityFramework.dll
+C:\github\webapi-test\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\github\webapi-test\Test\bin\Debug\DbClasses.pdb
+C:\github\webapi-test\Test\bin\Debug\EntityFramework.xml
+C:\github\webapi-test\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\github\webapi-test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

@@ -9,3 +9,15 @@ C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\ob
 C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\obj\Debug\DbClasses.pdb
 C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\obj\Debug\DbClasses.Migrations.InitialCreate.resources
 C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\obj\Debug\DbClasses.csproj.GenerateResource.Cache
+C:\github\webapi-test\DbClasses\bin\Debug\DbClasses.dll.config
+C:\github\webapi-test\DbClasses\bin\Debug\DbClasses.dll
+C:\github\webapi-test\DbClasses\bin\Debug\DbClasses.pdb
+C:\github\webapi-test\DbClasses\bin\Debug\EntityFramework.dll
+C:\github\webapi-test\DbClasses\bin\Debug\EntityFramework.SqlServer.dll
+C:\github\webapi-test\DbClasses\bin\Debug\EntityFramework.xml
+C:\github\webapi-test\DbClasses\bin\Debug\EntityFramework.SqlServer.xml
+C:\github\webapi-test\DbClasses\obj\Debug\DbClasses.csprojResolveAssemblyReference.cache
+C:\github\webapi-test\DbClasses\obj\Debug\DbClasses.Migrations.InitialCreate.resources
+C:\github\webapi-test\DbClasses\obj\Debug\DbClasses.csproj.GenerateResource.Cache
+C:\github\webapi-test\DbClasses\obj\Debug\DbClasses.dll
+C:\github\webapi-test\DbClasses\obj\Debug\DbClasses.pdb
