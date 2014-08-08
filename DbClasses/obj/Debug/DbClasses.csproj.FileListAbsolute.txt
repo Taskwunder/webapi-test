@@ -1,0 +1,11 @@
+C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\bin\Debug\DbClasses.dll.config
+C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\bin\Debug\DbClasses.dll
+C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\bin\Debug\DbClasses.pdb
+C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\bin\Debug\EntityFramework.dll
+C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\bin\Debug\EntityFramework.xml
+C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\obj\Debug\DbClasses.dll
+C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\obj\Debug\DbClasses.pdb
+C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\obj\Debug\DbClasses.Migrations.InitialCreate.resources
+C:\Users\Jürgen\documents\visual studio 2013\Projects\WebPrototype\DbClasses\obj\Debug\DbClasses.csproj.GenerateResource.Cache
